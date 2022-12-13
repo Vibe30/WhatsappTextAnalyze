@@ -67,6 +67,8 @@
         
 2. Now, visit at 
 3. Page will look like below
+
+
 ![what2](https://user-images.githubusercontent.com/40932902/164450540-f0700c3e-c0bb-47a7-af01-2b23b71e2782.png)
 4. To see details of how it works click on the plus icon '+', and click again '-' to close
 5. Browse your file or drag and drop it in the file box.
