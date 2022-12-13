@@ -1,4 +1,4 @@
-# WhatsApp Chat Analysis
+# WhatsApp Chat/Text Analysis
 ## About this project:
 - The main goal of this project is to analyze the WhatsApp chat and represents it through charts and visuals.
 - Project is live now and deployed on Heroku. visit
