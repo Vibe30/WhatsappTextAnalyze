@@ -66,22 +66,32 @@
         - Now save this file anywhere you want.
         
 2. Now, visit at 
-3. Page will look like below
-
-
-![what2](https://user-images.githubusercontent.com/40932902/164450540-f0700c3e-c0bb-47a7-af01-2b23b71e2782.png)
-4. To see details of how it works click on the plus icon '+', and click again '-' to close
-5. Browse your file or drag and drop it in the file box.
-6. Once your file has been uploaded all members' names will be visible in the dropdown menu, By default select All, if you want to analyze for an individual member then select that member and click on 'Show Analysis'.
+3. To see details of how it works click on the plus icon '+', and click again '-' to close
+4. Browse your file or drag and drop it in the file box.
+5. Once your file has been uploaded all members' names will be visible in the dropdown menu, By default select All, if you want to analyze for an individual member then select that member and click on 'Show Analysis'.
 
 
 # Some Snapshots:
-![what3](https://user-images.githubusercontent.com/40932902/164450748-aeb5c4ae-4030-48bb-a3a8-c63b6e0fde77.png)
+![164450540-f0700c3e-c0bb-47a7-af01-2b23b71e2782](https://user-images.githubusercontent.com/19228512/207432701-538bf0f1-e8d7-4467-998b-5c8215b5ebb5.jpg)
+
+
+![164450748-aeb5c4ae-4030-48bb-a3a8-c63b6e0fde77](https://user-images.githubusercontent.com/19228512/207432769-5dfa185e-9a15-422e-bdd7-b58b30bf9968.jpg)
+
 ![what4](https://user-images.githubusercontent.com/40932902/164450755-c8215423-6c23-47bd-a70c-7369b1533237.png)
+
+
 ![what5](https://user-images.githubusercontent.com/40932902/164450758-3a3b8a72-4651-467d-8b95-d3008c07c519.png)
+
+
 ![what6](https://user-images.githubusercontent.com/40932902/164450759-08a12997-5d06-4f50-9e29-fc272dd28523.png)
+
+
 ![what7](https://user-images.githubusercontent.com/40932902/164450765-38aac503-87e4-4097-a1f2-6cdc89cdac81.png)
+
+
 ![what8](https://user-images.githubusercontent.com/40932902/164450768-d6712ba7-5ecb-4f7b-8d3d-9ebb2c1bc2cf.png)
+
+
 ![what9](https://user-images.githubusercontent.com/40932902/164450771-5ba10e9c-ab57-472a-b8bf-f783271c9056.png)
 
 
