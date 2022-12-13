@@ -81,7 +81,5 @@
 ![what7](https://user-images.githubusercontent.com/40932902/164450765-38aac503-87e4-4097-a1f2-6cdc89cdac81.png)
 ![what8](https://user-images.githubusercontent.com/40932902/164450768-d6712ba7-5ecb-4f7b-8d3d-9ebb2c1bc2cf.png)
 ![what9](https://user-images.githubusercontent.com/40932902/164450771-5ba10e9c-ab57-472a-b8bf-f783271c9056.png)
-![what](https://user-images.githubusercontent.com/40932902/164450776-56abca93-6bfe-4ad3-8175-7693be56b7ef.png)
-![what2](https://user-images.githubusercontent.com/40932902/164450779-0a41bc80-64ee-41b5-9b52-2282584883fc.png)
 
 
