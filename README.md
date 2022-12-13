@@ -1,7 +1,7 @@
 # WhatsApp Chat Analysis
 ## About this project:
 - The main goal of this project is to analyze the WhatsApp chat and represents it through charts and visuals.
-- Project is live now and deployed on Heroku. visit at https://whatsapp-santosh.herokuapp.com/
+- Project is live now and deployed on Heroku. visit
 - This project can be used for individual as well as group chats.
 ​
 ## Idea:
@@ -52,7 +52,7 @@
 - **dataset.py**: for generating dataset
 - **functions.py**: user-defined functions as required
 ​
-#### Project Files link: https://github.com/withusanty/WhatsApp-Chat-Analysis
+#### Project Files link: https://github.com/Vibe30/WhatsappTextAnalyze/
 ​
 # How to use:
 1. To use this web app first you WhatsApp chat text file.
@@ -65,7 +65,7 @@
         - Click on Export Chat, proceed with Without Media
         - Now save this file anywhere you want.
         
-2. Now, visit at https://whatsapp-santosh.herokuapp.com/
+2. Now, visit at 
 3. Page will look like below
 ![what2](https://user-images.githubusercontent.com/40932902/164450540-f0700c3e-c0bb-47a7-af01-2b23b71e2782.png)
 4. To see details of how it works click on the plus icon '+', and click again '-' to close
